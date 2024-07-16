@@ -1,17 +1,51 @@
-# Youtube Homepage Replica
+# Youtube Homepage
 
 ## Overview
 
-This repository houses the codebase for the static replica of the YouTube homepage created using HTML and CSS.
+The **Static YouTube Home Page** is a simplified, static replica of the YouTube home page designed using HTML and CSS. This project serves as a practice for front-end web development, focusing on creating a visually appealing and responsive layout.
+
+<br> 
 
 ## Features
 
-- Header with YouTube logo and search bar.
-- Navigation bar with links to Home, Trending, Subscriptions, Library, and History.
-- Video thumbnails with titles, channel names, and views.
-- CSS transitions and hover effects to mimic interactivity.
+- Responsive Design:
+  - The layout is designed to be responsive, adapting to various screen sizes and devices.
+
+- Header:
+  - Includes the YouTube logo, search bar, and user profile icons.
+    
+- Navigation Bar:
+  - Contains links to different sections such as Home, Trending, Subscriptions, Library and History.
+    
+- Sidebar:
+  - Provides quick access to various categories and settings.
+ 
+- Main Content:
+  - Displays video thumbnails, titles, and descriptions in a grid format.
+  - Includes video statistics such as views and upload date.
+
+- Transitions:
+  - Contains various CSS transitions and hover effects to mimic interactivity
+
+<br> 
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS
-- **Version Control:** Git
+- HTML: Structure of the web page.
+- CSS: Styling and layout of the web page.
+
+## Installation
+
+1. Clone the repository:
+ 
+ - `git clone https://github.com/fuzhanhung218/Youtube-Homepage.git`
+
+2. Navigate to the project directory:
+
+ - `cd youtube`
+
+3. Run the project:
+
+ - Open the [**youtube.html**](./youtube/youtube.html) file in your web browser to view the static YouTube home page.
+
+
