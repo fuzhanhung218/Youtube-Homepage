@@ -34,6 +34,8 @@ The **Static YouTube Home Page** is a simplified, static replica of the YouTube 
 - HTML: Structure of the web page.
 - CSS: Styling and layout of the web page.
 
+<br> 
+
 ## Installation
 
 1. Clone the repository:
@@ -48,4 +50,20 @@ The **Static YouTube Home Page** is a simplified, static replica of the YouTube 
 
  - Open the [**youtube.html**](./youtube/youtube.html) file in your web browser to view the static YouTube home page.
 
+<br> 
 
+## Contributor(s)
+
+- Zhan Hung Fu
+
+<br> 
+
+## Contact
+
+If you encounter any bugs, issues, or have suggestions for improvements, please contact me via email: fuzhanhung218@gmail.com.
+
+<br> 
+
+## Acknowledgements
+
+- Thanks to YouTube for the inspiration and design guidelines.
